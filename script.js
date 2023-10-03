@@ -21,7 +21,7 @@ d5 = "💌 Event Room လေးကတော့  🎂 Birthday 🎉 Surprised �
 // { "name": "Saw Htoo", "room": "1", "phone": "0925" , "date": "10/01/2023", "time" : "2:00 - 4:00", "deposit" : ""},
 const jsonData = [
     { "name": "Saw Htoo", "room": "1", "phone": "0925" , "date": "10/01/2023", "time" : "2:00 - 4:00", "deposit" : "", "movie" : "TOM and JERRY"},
-    { "name": "SS", "room": "2", "phone": "0925" , "date": "10/03/2023", "time" : "10:00 - 12:00", "deposit" : "5000", "movie" : "HORROR MOVIES"},
+    { "name": "SS", "room": "2", "phone": "0926" , "date": "10/03/2023", "time" : "10:00 - 12:00", "deposit" : "5000", "movie" : "HORROR MOVIES"},
     { "name": "Sa Shar Main", "room": "3", "phone": "0994" , "date": "15/01/2023", "time" : "9:00 - 12:00", "deposit" : "5000", "movie" : "ROMANCE"},
 ];
 
